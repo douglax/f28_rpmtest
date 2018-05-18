@@ -1,4 +1,4 @@
-# centos7_chefnode  
+# fedora28 rpm test node  
 A docker image to test rpm development
 
 
